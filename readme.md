@@ -9,7 +9,7 @@
 [GitHub](https://github.com/anabrandt/sprint4-ia)
 
 ## Link do vídeo pitch
-[GitHub](https://www.youtube.com/watch?v=eQPSpXKQSGs)
+[Youtube](https://www.youtube.com/watch?v=eQPSpXKQSGs)
 
 # Duocorde: Plataforma de Educação Musical Inclusiva
 
